@@ -1,6 +1,7 @@
 // source: https://pgl.yoyo.org/as/serverlist.php?showintro=0
 module.exports = [
   '101com.com',
+  'cdn.intermarkets.net',
   '101order.com',
   '123found.com',
   '180hits.de',
