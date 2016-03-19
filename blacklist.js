@@ -934,7 +934,7 @@ module.exports = [
   'an.tacoda.net',
   'anahtars.com',
   'analytics.adpost.org',
-  'analytics.google.com',
+  // 'analytics.google.com',
   'analytics.live.com',
   'analytics.yahoo.com',
   'anm.intelli-direct.com',
